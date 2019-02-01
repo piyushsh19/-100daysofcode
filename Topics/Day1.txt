@@ -1,0 +1,28 @@
+ Successfully Completed 15 coding challange with freecodecamp.
+
+*Basic HTML and HTML5
+Say Hello to HTML Elements
+Headline with the h2 Element
+Inform with the Paragraph Element
+Fill in the Blank with Placeholder Text
+Uncomment HTML
+Comment out HTML
+Delete HTML Elements
+Introduction to HTML5 Elements
+Add Images to Your Website
+Link to External Pages with Anchor Elements
+Link to Internal Sections of a Page with Anchor Elements
+Nest an Anchor Element within a Paragraph
+Make Dead Links Using the Hash Symbol
+Turn an Image into a Link
+Create a Bulleted Unordered List
+
+...................................
+
+Started Datastructure and Algorithms from https://medium.com/basecs/tagged/data-structures
+
+1.Linked List 
+2.Stack and Overflows
+
+1.Leaf It Up To Binary Trees
+2.Looking For The Logic Behind Logarithms

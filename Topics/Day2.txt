@@ -1,0 +1,46 @@
+continuing Basic HTML and HTML5 
+
+Create an Ordered List
+Create a Text Field
+Add Placeholder Text to a Text Field
+Create a Form Element
+Add a Submit Button to a Form
+Use HTML5 to Require a Field
+Create a Set of Radio Buttons
+Create a Set of Checkboxes
+Check Radio Buttons and Checkboxes by Default
+Nest Many Elements within a Single div Element
+Declare the Doctype of an HTML Document
+Define the Head and Body of an HTML Document
+
+Introduction to Basic CSS
+
+Change the Color of Text
+Use CSS Selectors to Style Elements
+Use a CSS Class to Style an Element
+Style Multiple Elements with a CSS Class
+Change the Font Size of an Element
+Set the Font Family of an Element
+Import a Google Font
+Specify How Fonts Should Degrade
+Size Your Images
+Add Borders Around Your Elements
+Add Rounded Corners with border-radius
+Make Circular Images with a border-radius
+Give a Background Color to a div Element
+Set the id of an Element
+Use an id Attribute to Style an Element
+Adjust the Padding of an Element
+Adjust the Margin of an Element
+Add a Negative Margin to an Element
+Add Different Padding to Each Side of an Element
+Add Different Margins to Each Side of an Element
+
+Also,Continue Datastructure and Algorithms from https://medium.com/basecs/tagged/data-structures
+
+1.Königsberg: Seven Small Bridges, One Giant Graph Problem
+2.Demystifying Depth-First Search
+
+1.To Queue Or Not To Queue
+2.How To Not Be Stumped By Trees
+

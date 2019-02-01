@@ -1,0 +1,47 @@
+continue Introduction to Basic CSS
+
+
+Use Clockwise Notation to Specify the Padding of an Element
+Use Clockwise Notation to Specify the Margin of an Element
+Use Attribute Selectors to Style Elements
+Understand Absolute versus Relative Units
+Style the HTML Body Element
+Inherit Styles from the Body Element
+Prioritize One Style Over Another
+Override Styles in Subsequent CSS
+Override Class Declarations by Styling ID Attributes
+Override Class Declarations with Inline Styles
+Override All Other Styles by using Important
+Use Hex Code for Specific Colors
+Use Hex Code to Mix Colors
+Use Abbreviated Hex Code
+Use RGB values to Color Elements
+Use RGB to Mix Colors
+Use CSS Variables to change several elements at once
+Create a custom CSS Variable
+Use a custom CSS Variable
+Attach a Fallback value to a CSS Variable
+Improve Compatibility with Browser Fallbacks
+Cascading CSS variables
+Change a variable for a specific area
+Use a media query to change a variable
+
+Also,Continue Datastructure and Algorithms from https://medium.com/basecs/tagged/data-structures
+
+1.Leaf It Up To Binary Trees
+2.A Gentle Introduction To Graph Theory
+
+1.Breaking Down Breadth-First Search
+2.Sorting Out The Basics Behind Sorting Algorithms
+
+Started Python Tutorial from https://www.hackerearth.com/practice/ 
+
+Topic Covered
+
+1.Input and Output
+2.Python Variables
+3.Numbers
+4.String
+5.Conditionals
+6.Functions 
+
