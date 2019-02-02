@@ -1,0 +1,54 @@
+continue Python Tutorial from https://www.hackerearth.com/practice/ 
+
+Topic Covered
+
+Working with Data
+1.Lists
+2.Dictionary
+3.Set
+4.Expressions
+
+Object Oriented Programming
+1.Class and Obbjects
+2.Classes and Objects(inheritance)
+3.Errors and Exceptions
+
+Started Python Preogramming examples from geekforgeeks
+
+Basic Programs:
+
+Python program to add two numbers
+Python Program for factorial of a number
+Python Program for simple interest
+Python Program for compound interest
+Python Program to check Armstrong Number
+Python Program for Program to find area of a circle
+Python program to print all Prime numbers in an Interval
+Python program to check whether a number is Prime or not
+Python Program for n-th Fibonacci number
+Python Program for Fibonacci numbers
+Python Program for How to check if a given number is Fibonacci number?
+Python Program for n\’th multiple of a number in Fibonacci Series
+Program to print ASCII Value of a character
+Python Program for Sum of squares of first n natural numbers
+Python Program for cube sum of first n natural numbers
+
+Array Programs:
+
+Python Program to find sum of array
+Python Program to find largest element in an array
+Python Program for array rotation
+Python Program for Reversal algorithm for array rotation
+Python Program to Split the array and add the first part to the end
+Python Program for Find reminder of array multiplication divided by n
+Reconstruct the array by replacing arr[i] with (arr[i-1]+1) % M
+Python Program to check if given array is Monotonic
+
+Also,Continue Datastructure and Algorithms from https://medium.com/basecs/tagged/data-structures
+1.Taking Hash Tables Off The Shelf
+2.Hashing Out Hash Functions
+
+1.Exponentially Easy Selection Sort
+2.Bubbling Up With Bubble Sorts
+ 
+
