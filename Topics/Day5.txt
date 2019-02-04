@@ -1,0 +1,38 @@
+continue  Python Programming examples from geekforgeeks
+
+Topic Covered
+
+Searching and Sorting Programs:
+
+Python Program for Binary Search (Recursive and Iterative)
+Python Program for Linear Search
+Python Program for Insertion Sort
+Python Program for Recursive Insertion Sort
+Python Program for QuickSort
+Python Program for Iterative Quick Sort
+Python Program for Selection Sort
+Python Program for Bubble Sort
+Python Program for Merge Sort
+Python Program for Iterative Merge Sort
+Python Program for Heap Sort
+Python Program for Counting Sort
+Python Program for ShellSort
+Python Program for Topological Sorting
+Python Program for Radix Sort
+
+Also,Continue Datastructure and Algorithms from https://medium.com/basecs/tagged/data-structures
+
+1.Set Theory: the Method To Database Madness
+2.Learning to Love Heaps
+
+1.Inching Towards Insertion Sort
+2.Making Sense of Merge Sort [Part 1]
+
+
+Python Tutorial from https://www.hackerearth.com/practice/ 
+
+Iterators and Generators
+Functional Programming
+Higher Order Functions and Decorator
+
+
