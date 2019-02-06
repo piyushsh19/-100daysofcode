@@ -1,0 +1,30 @@
+continue  Python Programming examples from geekforgeeks
+
+Topic Covered
+
+Python Program to Reverse a linked list
+Python Program for Find largest prime factor of a number
+Python Program for Efficient program to print all prime factors of a given number
+Python Program for Product of unique prime factors of a number
+Python Program for Find sum of odd factors of a number
+Python Program for Coin Change
+Python Program for Tower of Hanoi
+Python Program for Sieve of Eratosthenes
+Python Program to Check if binary representation is palindrome
+Python Program for Basic Euclidean algorithms
+Python Program for Extended Euclidean algorithms
+Python Program for Number of elements with odd factors in given range
+Python Program for Common Divisors of Two Numbers
+Python Program for Maximum height when coins are arranged in a triangle
+Python Program for GCD of more than two (or array) numbers
+
+Also,Continue Datastructure and Algorithms from https://medium.com/basecs/tagged/data-structures
+
+1.Trying to Understand Tries
+2.Compressing Radix Trees Without (Too Many) Tears
+
+1.Making Sense of Merge Sort [Part 2]
+2.Pivoting To Understand Quicksort [Part 1]
+
+today i also take 30 Day challenge from https://www.hackerrank.com/challenges/30-operators/problem 
+
