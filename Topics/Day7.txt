@@ -1,0 +1,30 @@
+continue  Python Programming examples from geekforgeeks
+
+Topic Covered
+
+Python Program for Check if count of divisors is even or odd
+Python Program for Find minimum sum of factors of number
+Python Program for Difference between sums of odd and even digits
+Python Program for Program to Print Matrix in Z form
+Python Program for Largest K digit number divisible by X
+Python Program for Smallest K digit number divisible by X
+Python Program for Print Number series without using any loop
+Python Program for Number of stopping station problem
+Python Program for Program to calculate area of a Tetrahedron
+Python Program for focal length of a spherical mirror
+Python Program for Find the perimeter of a cylinder
+Check if a triangle of positive area is possible with the given angles
+Python Program for Number of jump required of given length to reach a point of form (d, 0) from origin in 2D plane
+Python Program for Finding the vertex, focus and directrix of a parabola
+Python program to find the most occurring character and its count
+
+Also,Continue Datastructure and Algorithms from https://medium.com/basecs/tagged/data-structures
+
+1.The Little AVL Tree That Could
+2.Finding Fibonacci In Golden Trees
+
+1.Pivoting To Understand Quicksort [Part 2]
+2.Heapify All The Things With Heap Sort
+
+
+cleared Day 2 of 30 Day challenge from https://www.hackerrank.com/challenges/30-operators/problem 
