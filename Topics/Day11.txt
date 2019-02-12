@@ -1,0 +1,31 @@
+cleared Day 7(Arrays) of 30 Day challenge from https://www.hackerrank.com/challenges/
+
+started Python course from freecodecamp
+
+Python Abs Function
+Python All Iterable
+Anaconda
+Python Any Iterable
+Relationships between * and args
+Basic Operators
+Python Bool Function
+Python Boolean Operations
+Python Built in Constants
+Python Calling Functions
+Class
+Python Code Blocks and Indentation
+Python Commenting Code
+Python Comparisons
+Python Complex Numbers
+Python Containers
+Converting Integer to String in Python
+
+The Python Data Structures
+The Python Dict
+Python Floating Point Numbers
+Python Integers
+The Python Objects
+The Python Range
+The Python Scopes
+The Python Strings
+The Tuples
