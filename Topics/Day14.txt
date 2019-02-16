@@ -1,0 +1,26 @@
+Python Course Continued
+
+Python Return Statement
+Python Sequence Types
+Python Set Types
+Setting Up Python Web Framework Django and Flask
+Share File Using Python SimpleHTTPserver
+Sleep How Can I Make a Time Delay in Python
+Python Slicestartstopstep
+Python Ternary Operater
+Python Truth Value Testing
+Python Using Pip
+Using Python for Web Development
+Python Variables Names and Binding
+Virtual Environments
+What Is Python Used for
+While Loop Statements
+Python Zip Function
+
+
+cleared Day 10 of 30 Day challenge from https://www.hackerrank.com/challenges/
+
+
+Built Django Group Model Choice project 
+
+https://github.com/piyushsh19/Django_Group_Model_Choice

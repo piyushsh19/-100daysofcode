@@ -1,0 +1,8 @@
+Learn How to add User Profile To Django Admin
+
+https://github.com/piyushsh19/Django_User_Profile
+........................................
+Revised Python Course From freeCodeCamp
+
+
+cleared Day 11(2DArrays) of 30 Day challenge from https://www.hackerrank.com/challenges/

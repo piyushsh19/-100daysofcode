@@ -1,0 +1,34 @@
+Python course continued
+
+Deque
+Lists
+Python Max Function
+Python Min Function
+Python More Built in Types
+Python Mutability and Variable Assignments
+Python Name Binding and Aliasing Functions
+Nested Functions in Python
+Python Numeric Operations
+Python Numeric Types
+Python Object Oriented Programming
+Classes
+Constructors
+Inheritance
+Methods
+Operator Overloading
+Special Comparison Methods
+Special Formatting Methods
+Special Iteration Methods
+Static Variables
+Python Ord Function
+Python Parenthesis for Boolean Operations
+Python Powxy
+Python 2 vs Python 3
+Coding standards
+Python f-strings
+Python Resources
+Range Method
+REST APIs with Falcon
+Python Return Statement
+
+cleared Day 9 of 30 Day challenge from https://www.hackerrank.com/challenges/
